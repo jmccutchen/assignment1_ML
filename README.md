@@ -5,5 +5,6 @@
 1. Clone this repo. Example [here](https://www.youtube.com/watch?v=f6xc5Jg5Sy8)
 
 2. Setup virtual environment. Example for VSCode [here](https://www.youtube.com/watch?v=GZbeL5AcTgw)
+    Generally, run `py (or python or python3) -m venv .venv` in the directory of the cloned repo.
 
 3. Install dependencies. Run `pip install -r requirements.txt`
