@@ -1,6 +1,6 @@
 # assignment1_ML Starter Template
 
-## This is a setup template to get started with assignment. Follow the steps below.
+## This is a setup template to get started with assignment 1. Follow the steps below.
 
 1. Clone this repo. Example [here](https://www.youtube.com/watch?v=f6xc5Jg5Sy8)
 
